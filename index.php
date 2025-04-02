@@ -80,32 +80,32 @@
 <body>
     
     <section class="hero">
-        <h1>Welcome to Our Technological Service</h1>
-        <p>Your perfect solution for modern technological and innovational needs.</p>
+        <h1>Welcome to Our Service</h1>
+        <p>Your perfect solution for modern needs.</p>
         <button>Sign Up Now</button>
     </section>
 
     <section class="features">
         <div class="feature">
-            <img src="full.jpg" alt="Feature 1">
-            <h3>Full Stack Development</h3>
-            <p>Full Stack Development refers to the practice of building both the frontend (user interface) and backend (server, database, APIs) of a web application. A full-stack developer works with technologies like HTML, CSS, JavaScript (frontend) and Node.js, Python, PHP, databases (backend) to create complete, functional applications.</p>
+            <img src="feature1.png" alt="Feature 1">
+            <h3>Feature One</h3>
+            <p>Short description of the feature.</p>
         </div>
         <div class="feature">
-            <img src="data.jpg" alt="Feature 2">
-            <h3>Data Analytics</h3>
-            <p>Data Analytics is the process of collecting, organizing, and analyzing data to extract meaningful insights, identify trends, and support decision-making. It involves techniques like statistical analysis, data visualization, and machine learning, using tools such as Excel, SQL, Python, and Power BI tools.</p>
+            <img src="feature2.png" alt="Feature 2">
+            <h3>Feature Two</h3>
+            <p>Short description of the feature.</p>
         </div>
         <div class="feature">
-            <img src="uiux.png" alt="Feature 3">
-            <h3>UI/UX</h3>
-            <p>UI/UX Design focuses on creating user-friendly and visually appealing digital experiences. UI (User Interface) design deals with the look and feel, including colors, typography, and layout, while UX (User Experience) ensures ease of use, accessibility, and seamless interaction. Tools like Figma, Adobe XD, and Sketch help designers craft intuitive designs.</p>
+            <img src="feature3.png" alt="Feature 3">
+            <h3>Feature Three</h3>
+            <p>Short description of the feature.</p>
         </div>
     </section>
 
     <footer class="footer">
-        <p>Contact us: biola.akinyele@gmail.com | +2347069693066</p>
-        <p>&copy; 2025 EPIPHANY TECHNOLOGY. All rights reserved.</p>
+        <p>Contact us: email@example.com | +123456789</p>
+        <p>&copy; 2025 Your Company. All rights reserved.</p>
     </footer>
 
 </body>
